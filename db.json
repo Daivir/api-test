@@ -18,8 +18,8 @@
     {"id":16,"slug":"product-16","createdAt":"2015-07-19T17:14:01.640Z","name":"Product16","category_id":3}
   ],
   "categories": [
-    {id:1,name:'Category1'},
-    {id:2,name:'Category2'},
-    {id:3,name:'Category3'}
+    {"id":1,"name":"Category1"},
+    {"id":2,"name":"Category2"},
+    {"id":3,"name":"Category3"}
   ]
 }
