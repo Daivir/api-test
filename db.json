@@ -1,22 +1,5 @@
 {
-  "products": [
-    {"id":1,"slug":"product-1","createdAt":"2013-09-03T05:40:33.922Z","name":"Product1","category_id":1},
-    {"id":2,"slug":"product-2","createdAt":"2012-11-01T03:11:16.826Z","name":"Product2","category_id":2},
-    {"id":3,"slug":"product-3","createdAt":"2019-02-04T06:18:09.248Z","name":"Product3","category_id":2},
-    {"id":4,"slug":"product-4","createdAt":"2016-04-29T12:51:40.632Z","name":"Product4","category_id":2},
-    {"id":5,"slug":"product-5","createdAt":"2013-11-08T20:49:40.096Z","name":"Product5","category_id":3},
-    {"id":6,"slug":"product-6","createdAt":"2014-05-23T13:36:18.618Z","name":"Product6","category_id":2},
-    {"id":7,"slug":"product-7","createdAt":"2017-03-20T11:00:58.183Z","name":"Product7","category_id":2},
-    {"id":8,"slug":"product-8","createdAt":"2013-11-27T00:08:37.766Z","name":"Product8","category_id":3},
-    {"id":9,"slug":"product-9","createdAt":"2017-06-16T23:01:26.307Z","name":"Product9","category_id":2},
-    {"id":10,"slug":"product-10","createdAt":"2015-10-05T07:51:14.455Z","name":"Product10","category_id":2},
-    {"id":11,"slug":"product-11","createdAt":"2013-01-01T16:41:00.787Z","name":"Product11","category_id":3},
-    {"id":12,"slug":"product-12","createdAt":"2019-08-02T05:31:58.726Z","name":"Product12","category_id":3},
-    {"id":13,"slug":"product-13","createdAt":"2018-11-09T17:45:44.874Z","name":"Product13","category_id":3},
-    {"id":14,"slug":"product-14","createdAt":"2013-12-10T19:38:32.632Z","name":"Product14","category_id":2},
-    {"id":15,"slug":"product-15","createdAt":"2019-03-27T11:50:22.137Z","name":"Product15","category_id":3},
-    {"id":16,"slug":"product-16","createdAt":"2015-07-19T17:14:01.640Z","name":"Product16","category_id":3}
-  ],
+  "products": [{"id":1,"slug":"product-1","createdAt":"2014-04-08T10:31:31.154Z","name":"Product1","category_name":"Category21"},{"id":2,"slug":"product-2","createdAt":"2018-11-25T11:13:29.226Z","name":"Product2","category_name":"Category01"},{"id":3,"slug":"product-3","createdAt":"2016-06-04T06:59:03.149Z","name":"Product3","category_name":"Category11"},{"id":4,"slug":"product-4","createdAt":"2016-07-01T22:53:29.466Z","name":"Product4","category_name":"Category01"},{"id":5,"slug":"product-5","createdAt":"2016-08-26T16:55:19.335Z","name":"Product5","category_name":"Category11"},{"id":6,"slug":"product-6","createdAt":"2014-11-26T23:39:36.473Z","name":"Product6","category_name":"Category01"},{"id":7,"slug":"product-7","createdAt":"2018-09-18T22:57:05.430Z","name":"Product7","category_name":"Category21"},{"id":8,"slug":"product-8","createdAt":"2015-07-21T05:55:19.945Z","name":"Product8","category_name":"Category01"},{"id":9,"slug":"product-9","createdAt":"2017-08-07T00:00:05.836Z","name":"Product9","category_name":"Category11"},{"id":10,"slug":"product-10","createdAt":"2018-02-05T13:32:48.495Z","name":"Product10","category_name":"Category11"},{"id":11,"slug":"product-11","createdAt":"2018-09-06T20:47:14.321Z","name":"Product11","category_name":"Category01"},{"id":12,"slug":"product-12","createdAt":"2014-12-27T15:13:22.700Z","name":"Product12","category_name":"Category21"},{"id":13,"slug":"product-13","createdAt":"2014-01-25T22:34:31.700Z","name":"Product13","category_name":"Category01"},{"id":14,"slug":"product-14","createdAt":"2018-09-26T14:47:56.035Z","name":"Product14","category_name":"Category11"},{"id":15,"slug":"product-15","createdAt":"2015-06-15T12:24:40.839Z","name":"Product15","category_name":"Category11"},{"id":16,"slug":"product-16","createdAt":"2019-03-21T11:27:37.013Z","name":"Product16","category_name":"Category11"}],
   "categories": [
     {"id":1,"name":"Category1"},
     {"id":2,"name":"Category2"},
